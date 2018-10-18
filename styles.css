@@ -1,15 +1,16 @@
 h1 {
-  color:#8181f3;
-}
+  color:red;
+  }
 
-.titulo {
+  .titulo {
   font-weight:bold;
 }
 
-.secundario {
-margin-top:20px;
+.secundario .valor {
+  text-decoration: underline;
+  margin-top:20px;
 }
 
 body {
-margin:20px;
+  margin:20px;
 }
